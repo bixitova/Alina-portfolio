@@ -1,0 +1,91 @@
+body {
+    background-image: url(https://img.freepik.com/free-vector/white-elgant-texture-background-concept_23-2148447314.jpg?size=626&ext=jpg);
+    background-size: cover;
+}
+header {
+    text-align: center;
+}
+
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    text-align: right;
+    margin: 4px 4px 4px 4px;
+  }
+
+button {
+    color: #000000;
+    background-color:#ffffffd7;
+    border: 1px solid #000000;
+    position: relative;
+    font-size: 14px;
+    letter-spacing: .3em;
+    font-family: 'Montserrat', sans-serif;
+    padding: 17px 34px 17px 39px;
+    transition: .2s ease-in-out;
+    cursor: pointer;   
+    display: inline-flex;
+}
+
+p {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+}
+
+img {
+    width: 500px;
+    height: auto;
+    margin: 10px 10px 10px 10px;
+    position: center;
+    
+}
+
+hr {
+    height: 5px;
+    background-color: #aa8d5e;
+}
+
+ul {
+    text-align: left;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    list-style-type: none;
+}
+
+.projects {
+    background-image: url(https://img.freepik.com/free-photo/the-background-of-the-old-black-brick-wall-wallpaper_73152-4308.jpg?size=626&ext=jpg);
+    background-size: cover;
+    text-align: center;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+
+.head {
+    font-size: 40px;
+    color: white;
+}
+
+.contacts {
+    background-image: url(https://st3.depositphotos.com/13324256/17034/i/600/depositphotos_170344426-stock-photo-wooden-background.jpg);
+    background-size: cover;
+    text-align: center;
+    color:black;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    align-content: left;
+}
+
+.head1 {
+    font-size: 40px;
+    color:black;
+}
+
+a {
+    color: black;
+}
+a:hover {
+    color: black;
+}
